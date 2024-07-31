@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas Vindas Ao Meu Perfil❤
 
-<!--
-**EstudanteAlura02/EstudanteAlura02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é F.H
 
-Here are some ideas to get you started:
+- Estou estudando [Alura](https://www.alura.com.br)
+- EStou desenvolvendo minha programação
+- compartilharei meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatos
+
+0000112828859XSP@al.educacao.sp.gov.br
+0000112828859XSP@aluno.educacao.sp.gov.br
+![image](https://github.com/user-attachments/assets/aa69b9b2-4606-456d-adc3-b67a03470179)
